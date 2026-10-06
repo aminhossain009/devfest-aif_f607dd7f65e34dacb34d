@@ -1,0 +1,18 @@
+{
+  "tender": {
+    "id": "TND-2026-014",
+    "title": "Supply of Office Equipment",
+    "procuringEntity": "Ministry of Public Works",
+    "bidder": "Your Company Ltd.",
+    "deadline": "2026-11-15 12:00",
+    "outputFileName": "TND-2026-014_Bid_Package.pdf"
+  },
+  "requirements": [
+    { "id": "r1", "order": 1, "name": "Cover Letter", "required": true, "keywords": ["cover", "letter"] },
+    { "id": "r2", "order": 2, "name": "Trade License", "required": true, "keywords": ["trade", "license", "licence"] },
+    { "id": "r3", "order": 3, "name": "Tax Certificate (TIN)", "required": true, "keywords": ["tax", "tin"] },
+    { "id": "r4", "order": 4, "name": "Technical Proposal", "required": true, "keywords": ["technical"] },
+    { "id": "r5", "order": 5, "name": "Financial Proposal", "required": true, "keywords": ["financial", "price", "boq"] },
+    { "id": "r6", "order": 6, "name": "Past Experience Certificates", "required": false, "keywords": ["experience", "past"] }
+  ]
+}
